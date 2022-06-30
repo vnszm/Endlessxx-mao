@@ -1,3 +1,2 @@
-# Endlessxx-mao
-TVB
-备份TVB接口
+# Endlessxx-TVB
+TVB only
