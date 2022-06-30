@@ -2,7 +2,7 @@
 {
 "spider":"https://endlessxx.github.io/Endlessxx-TVB/TVB/bc0630.jar",
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext= https://endlessxx.github.io/Endlessxx-TVB/TVB/tv/bc.txt"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://endlessxx.github.io/Endlessxx-TVB/TVB/tv/bc.txt"]}]}],
 
 
 "sites":[
