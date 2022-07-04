@@ -1,6 +1,6 @@
 
 {
-"spider":"https://ghproxy.com/https://endlessxx.github.io/Endlessxx-TVB/TVB/bc0701.jar",
+"spider":"https://endlessxx.github.io/Endlessxx-TVB/TVB/bc0701.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9lbmRsZXNzeHguZ2l0aHViLmlvL0VuZGxlc3N4eC1UVkIvVFZCL3R2L2JjLnR4dA=="]}]}],
 
